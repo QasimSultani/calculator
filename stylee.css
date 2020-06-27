@@ -1,0 +1,48 @@
+body{
+    background-color: whitesmoke;
+}
+
+.main{
+
+    width: 20%;
+    border: 2px solid black;
+    margin: 15% auto;
+}
+.bar{
+    font-weight: bolder;
+    margin-top: 0;
+    width: 98%;
+   background-color: grey; }
+   .c{
+  
+    margin: 2px;   
+    width: 100%;
+   }
+
+   .btn{
+    
+       width: 24%;
+   }
+   .half{
+    
+       width: 49%;
+   }
+
+   .btn:hover
+   {
+    background-color: thistle;   }
+
+    .half:hover
+    {
+     background-color: thistle;   }
+
+     .c:hover
+     {
+      background-color: thistle;   }
+
+      .P{
+          color: tomato;
+          font-size: 330%;
+          margin-top: 7%;
+          text-align: center;
+      }
